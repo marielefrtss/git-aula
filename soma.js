@@ -7,4 +7,4 @@ function somarnumeros(n1,n2){
     console.log(soma);
 }
 
-    
+    module.exports= somarnumeros;
