@@ -1,4 +1,4 @@
-function multiplicar(a,b){
+node.function multiplicar(a,b){
     return a * b;
    
 };
