@@ -21,6 +21,8 @@ const calculadoraSoma = {
 console.log(calculadoraSoma.somar());
 
 
+
+
 const calculadoraSubtrair = {
     numero1: 10,
     numero2: 5,
